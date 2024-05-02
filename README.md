@@ -5,7 +5,7 @@ Repository for my solutions to Mooc.fi Java Programming I and II exercises
 Source code, Printing, Parameters, Comments, Strings, Scanner, Importing, Input, Reading, Concatenation, Variables, Primitives types, Intro to reference types, Naming, Precedence, Expression, Statement, Arithmetic operators, Int division, Float division, Conditionals, Indentation, Block statements, Comparison operators, Order of execution, Comparing strings and Logical operators.
 
 ### Part 2
-Loops, While, For, Do while, Methods, camelCase, Parameters for methods, Copies in method call, Return values, Call Stack and Methods calling another method.
+Loops, While, For, Do while, Methods, camelCase, Parameters for methods, Values in method call, Return values, Call Stack and Methods calling another method.
 
 ### Part 3
 Debugging, Lists, Lists methods, IndexOutOfBoundsException, For each, Reference types in parameters, Arrays, Assigning, Accessing, Arrays "finite" size, Splitting a string, Data of fixed format and CSV.
