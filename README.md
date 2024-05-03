@@ -23,3 +23,6 @@ Objects on a list, List as part of an object, User interface, Program logic, Tes
 ### Part 7
 Programming paradigms, Procedural programming, Object-Oriented programming, Algorithms, Selection sort, Linear search and Binary search.  
 
+## Java Programming II Keywords
+### Part 8
+HashMap, Hash key, Hash value, HashMap efficiency, Objects in hashmap, HashMap as instance variable, keySet method, values method, Overriding equals method, Hash code, Overriding hash code method, Hash key multiple values, Array Lists as hash values, Grouping data under a key.
