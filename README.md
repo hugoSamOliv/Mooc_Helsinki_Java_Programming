@@ -26,3 +26,6 @@ Programming paradigms, Procedural programming, Object-Oriented programming, Algo
 ## Java Programming II Keywords
 ### Part 8
 HashMap, Hash key, Hash value, HashMap efficiency, Objects in hashmap, HashMap as instance variable, keySet method, values method, Overriding equals method, Hash code, Overriding hash code method, Hash key multiple values, Array Lists as hash values, Grouping data under a key.
+
+### Part 9
+Class inheritance, Protected, Superclass, Calling the constructor of the superclass, Calling a superclass method, Differences between Variable type and Object Type , Type of an object dictates which method is executed, Polymorphism, Polymorphism on inheritance , Inheritance bad pratices, Abstract classes, Interfaces, Polymorphism on interfaces, Interfaces as method parameters, Interface as a return type of a method, Reducing the dependencies between classes, Built-in Interfaces: List; Map; Set; Collection and Object polymorphism.
