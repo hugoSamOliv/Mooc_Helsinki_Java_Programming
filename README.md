@@ -29,3 +29,6 @@ HashMap, Hash key, Hash value, HashMap efficiency, Objects in hashmap, HashMap a
 
 ### Part 9
 Class inheritance, Protected, Superclass, Calling the constructor of the superclass, Calling a superclass method, Differences between Variable type and Object Type , Type of an object dictates which method is executed, Polymorphism, Polymorphism on inheritance , Inheritance bad pratices, Abstract classes, Interfaces, Polymorphism on interfaces, Interfaces as method parameters, Interface as a return type of a method, Reducing the dependencies between classes, Built-in Interfaces: List; Map; Set; Collection and Object polymorphism.
+
+### Part 10
+Handling collections as streams, Collections interface, Lambda expressions, Stream methods, Terminal operations, Intermediate operations, Objects and stream, Files and streams, The Comparable interface, compareTo method, Implementing multiple interfaces, Sorting method as a lambda expression, Comparator interface, Sorting By multiple criteria, comparing and thenComparing methods, StringBuilder, Regular expressions, Alternation (Vertical Line), Affecting part of a string (Parentheses), Quantifiers, Character classes (Square Brackets), Enumerated Type - Enum, Comparing Enums, ordinal method, Object references in enums, Iterator and Iterator methods.
