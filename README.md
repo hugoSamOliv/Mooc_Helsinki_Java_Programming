@@ -32,3 +32,6 @@ Class inheritance, Protected, Superclass, Calling the constructor of the supercl
 
 ### Part 10
 Handling collections as streams, Collections interface, Lambda expressions, Stream methods, Terminal operations, Intermediate operations, Objects and stream, Files and streams, The Comparable interface, compareTo method, Implementing multiple interfaces, Sorting method as a lambda expression, Comparator interface, Sorting By multiple criteria, comparing and thenComparing methods, StringBuilder, Regular expressions, Alternation (Vertical Line), Affecting part of a string (Parentheses), Quantifiers, Character classes (Square Brackets), Enumerated Type - Enum, Comparing Enums, ordinal method, Object references in enums, Iterator and Iterator methods.
+
+### Part 11
+Class diagrams, Describing class and class attributes, Describing class constructor, Describing class methods, Connections between classes, Describing inheritance, Describing interfaces, Packages, Directory structure in a file system, Packages and access modifiers, Classes that represent concepts of the problem domain, Application logic, Text user interface, Exceptions, Handling exceptions, Exceptions and resources, Shifting the responsibility, Throwing exceptions, Exceptions and interfaces, Details of the exception, Stacktrace, Processing files, PrintWriter class and FileWriter class. 
